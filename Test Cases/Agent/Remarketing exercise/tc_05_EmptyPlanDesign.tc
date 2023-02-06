@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_05_EmptyPlanDesign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aeb8bddc-2fa8-48c7-9ced-812099f7ab5e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2edb446c-f05c-464e-9788-a7b8e0a4a5c9</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

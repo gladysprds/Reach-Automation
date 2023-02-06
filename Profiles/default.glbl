@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>passed</description>
+      <initValue>'agencreachy7@yahoo.com'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>failed</description>
+      <initValue>'agencreachy8@yahoo.com'</initValue>
+      <name>username2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>not verified</description>
+      <initValue>'agencreachy9@yahoo.com'</initValue>
+      <name>username3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>passed</description>
+      <initValue>'customerembreo@ex.com'</initValue>
+      <name>username5</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>failed</description>
+      <initValue>'customerembreo2@ex.com'</initValue>
+      <name>username6</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>not verified</description>
+      <initValue>'customerembreo3@ex.com'</initValue>
+      <name>username7</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>passed with promotion email</description>
+      <initValue>'customerembreo4@ex.com'</initValue>
+      <name>username8</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>fill wrong otp number</description>
+      <initValue>'customerembreo5@ex.com'</initValue>
+      <name>username9</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>passed</description>
+      <initValue>'agenttest7@example.com'</initValue>
+      <name>username11</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>not select insurer</description>
+      <initValue>'agenttest8@example.com'</initValue>
+      <name>username12</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>passed with promotion email</description>
+      <initValue>'agenttest9@example.com'</initValue>
+      <name>username13</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>failed</description>
+      <initValue>'agenttest10@example.com'</initValue>
+      <name>username14</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>not verified</description>
+      <initValue>'agenttest11@example.com'</initValue>
+      <name>username15</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>fillwrongOTP Number</description>
+      <initValue>'agenttest12@example.com'</initValue>
+      <name>username16</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

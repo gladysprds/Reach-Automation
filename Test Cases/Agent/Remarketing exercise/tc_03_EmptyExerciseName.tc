@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_03_EmptyExerciseName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f94ba4b0-3e26-49dc-a28f-f11ecb0f20f4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dba1718a-4dfb-4de9-9071-7e7f6e9b76c8</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

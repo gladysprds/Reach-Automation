@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_05_FillAllFieldCorrectlyWithPolicySummary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e22e6b97-d12d-4093-8f8f-b27c1edc1070</testCaseGuid>
+   <variable>
+      <defaultValue>'D:\\W\\Embreo\\Reach needs\\policy.xlsx'</defaultValue>
+      <description></description>
+      <id>ad7fe15b-b3ef-47d1-a8f6-801ff11448c3</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

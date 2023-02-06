@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_17_Send Quotation Slip and Generate before select package plan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56defd1d-4d3d-4bdd-9af1-3a9ba5c16ab8</testCaseGuid>
+   <variable>
+      <defaultValue>'D:\\W\\Embreo\\Reach needs\\reach_employee.xlsx'</defaultValue>
+      <description></description>
+      <id>63e198af-3408-4efb-b208-8a77ff28cc76</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+   <variable>
+      <defaultValue>'MyDesemberExercise'</defaultValue>
+      <description></description>
+      <id>09a81b75-e3fb-469e-b945-f7722a7f2c8e</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

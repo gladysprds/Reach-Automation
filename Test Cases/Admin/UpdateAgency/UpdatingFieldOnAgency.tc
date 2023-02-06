@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UpdatingFieldOnAgency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b3ef26a-d83b-4d62-995a-a5e2a7f19ab5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e84eb30f-fc76-43c5-a58c-9a42b63ab38f</id>
+      <masked>false</masked>
+      <name>Agency_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>231f3437-3dca-4749-9424-991d49f4d05a</id>
+      <masked>false</masked>
+      <name>Head_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7649ec70-518c-46a2-b4a2-65ba929ba533</id>
+      <masked>false</masked>
+      <name>General_License</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>67299452-85c9-4a11-b3cd-21b5ba666afa</id>
+      <masked>false</masked>
+      <name>Contact_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>357bda74-b6c1-44c7-874c-2d8e85642169</id>
+      <masked>false</masked>
+      <name>Contact_Number</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_03_FilledAllFieldCorrectlyWithinNonMandatoryField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7dcafd2-6b08-4ad8-bc41-bb5df8316f1a</testCaseGuid>
+</TestCaseEntity>

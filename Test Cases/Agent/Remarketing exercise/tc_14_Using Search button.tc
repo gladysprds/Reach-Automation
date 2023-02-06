@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_14_Using Search button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1552f35-422a-4da6-8e80-fca1fa805669</testCaseGuid>
+   <variable>
+      <defaultValue>'D:\\W\\Embreo\\Reach needs\\reach_employee.xlsx'</defaultValue>
+      <description></description>
+      <id>146d6080-248e-48d1-a654-1a1b6642e1a8</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+   <variable>
+      <defaultValue>'MyDesemberExercise'</defaultValue>
+      <description></description>
+      <id>dfcc3eff-e779-4a2c-84b9-b4e56384541f</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

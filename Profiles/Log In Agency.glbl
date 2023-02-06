@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Log In Agency</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'trompics@example.com'</initValue>
+      <name>validemailagency</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'mockemail'</initValue>
+      <name>invalidemaileagency</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'thisiswrong'</initValue>
+      <name>regularemailagency</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'unregistered@example.com'</initValue>
+      <name>unregisteredemailagency</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hello12!'</initValue>
+      <name>validpasswordagency</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hello12'</initValue>
+      <name>invalidpasswordagency</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

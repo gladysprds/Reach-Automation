@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_02_FilledWithInvalidInput</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a15adf6-9bd4-4e8f-845d-07262a394d5e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_02_UpdateFieldWithoutAnyChange</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12b15a87-a9f8-484d-b3bf-9e7a43f58438</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Sign Up Agency</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>username passed</description>
+      <initValue>'reachyagen1@yaho.com'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>username failed</description>
+      <initValue>'reachagen2@yaho.com'</initValue>
+      <name>username2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>not verified</description>
+      <initValue>'reachyagen3@yaho.com'</initValue>
+      <name>username3</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

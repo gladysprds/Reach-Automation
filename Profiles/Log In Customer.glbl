@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Log In Customer</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hush@m.m'</initValue>
+      <name>invalidemailcustomer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'thisiswrong'</initValue>
+      <name>regularemailcustomer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'nightenough+test1@gmail.com'</initValue>
+      <name>unregemailcustomer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'customerQA@ex.com'</initValue>
+      <name>validemailcustomer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hello12!'</initValue>
+      <name>validpasswordcustomer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hello12'</initValue>
+      <name>invalidpasswordcustomer</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

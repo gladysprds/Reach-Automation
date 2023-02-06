@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Create Agency</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'antonius@embreo.global'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'singapore'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'reach agency'</initValue>
+      <name>AgencyHeadName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'87654321'</initValue>
+      <name>AgencyCompanyRegisterNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Creating Agency</description>
+      <initValue>'12345678'</initValue>
+      <name>AgencyGeneralLicenseNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Reachag'</initValue>
+      <name>AgencyContactName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'agencyofreach01@example.com'</initValue>
+      <name>AgencyEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'+6512345678'</initValue>
+      <name>AgencyContactNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>optional</description>
+      <initValue>'+65123456789'</initValue>
+      <name>AgencyPhoneNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>invalid format</description>
+      <initValue>'night@m.m'</initValue>
+      <name>AgencyEmail2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>regular text</description>
+      <initValue>'thisisme'</initValue>
+      <name>AgencyEmail3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>non numeric</description>
+      <initValue>'onetwothreefourfive'</initValue>
+      <name>AgencyLifeLicenseNumber2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>more than 11</description>
+      <initValue>'123456789101112'</initValue>
+      <name>AgencyLifeLicenseNumber3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>non numeric</description>
+      <initValue>'onetwothreethree'</initValue>
+      <name>AgencyGeneralLicenseNumber2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>more than 11</description>
+      <initValue>'1234567890101112'</initValue>
+      <name>AgencyGeneralLicenseNumber3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>non numeric</description>
+      <initValue>'plusonetwothree'</initValue>
+      <name>AgencyContactNumber2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>optional phon number non numeric</description>
+      <initValue>'plusOneTwoThree'</initValue>
+      <name>AgencyPhoneNumber1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'onetwothree'</initValue>
+      <name>AgencyCompanyRegisterNumber2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123456789101112'</initValue>
+      <name>AgencyCompanyRegisterNumber3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid, life license</description>
+      <initValue>'reachwebtest1@examples.com'</initValue>
+      <name>AgencyEmail4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid, life license</description>
+      <initValue>'reachwebtest2@examples.com'</initValue>
+      <name>AgencyEmail5</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid,general license</description>
+      <initValue>'reachwebtest3@examples.com'</initValue>
+      <name>AgencyEmail6</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid, general license</description>
+      <initValue>'reachwebtest1'</initValue>
+      <name>AgencyName1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>new</description>
+      <initValue>'reachwebtest2'</initValue>
+      <name>AgencyName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid, life license</description>
+      <initValue>'reachwebtest3'</initValue>
+      <name>AgencyName3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid, life license</description>
+      <initValue>'reach agency 3'</initValue>
+      <name>AgencyHeadName3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid, life license</description>
+      <initValue>'56789123'</initValue>
+      <name>AgencyCompanyRegisterNumber4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid, life license</description>
+      <initValue>'12345678'</initValue>
+      <name>AgencyLifeLicenseNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid, life license</description>
+      <initValue>'Reachag3'</initValue>
+      <name>AgencyContactName3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>valid, life license</description>
+      <initValue>'+65123456789'</initValue>
+      <name>AgencyContactNumber3</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

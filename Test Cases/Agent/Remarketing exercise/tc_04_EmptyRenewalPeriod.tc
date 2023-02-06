@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_04_EmptyRenewalPeriod</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86ba10d2-39e6-40cc-beb0-1b2e9531d062</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e2d119e-afb3-48d1-9894-7cd3d9ab2735</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

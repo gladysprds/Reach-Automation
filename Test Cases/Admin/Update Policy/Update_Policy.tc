@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update_Policy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>009bd31a-f56d-45d3-b1a0-2a6ea10092d8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>65433e0d-9872-4149-8ed3-e777742e7282</id>
+      <masked>false</masked>
+      <name>Policy_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91692405-d9f6-4dc0-bec0-23649ad6d3a7</id>
+      <masked>false</masked>
+      <name>Policy_Description</name>
+   </variable>
+</TestCaseEntity>

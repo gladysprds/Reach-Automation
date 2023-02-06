@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_01_FilledAllFieldCorrectly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a47cce3-2796-487d-8ac0-c389cd48d34f</testCaseGuid>
+   <variable>
+      <defaultValue>'D:\\W\\Embreo\\Reach needs\\reach_employee.xlsx'</defaultValue>
+      <description></description>
+      <id>39f2e046-076d-40d4-a670-25852222cd09</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+   <variable>
+      <defaultValue>'MyDesemberExercise'</defaultValue>
+      <description></description>
+      <id>c8b7c65a-f1bb-4716-ab6b-93a5a4c13d3d</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

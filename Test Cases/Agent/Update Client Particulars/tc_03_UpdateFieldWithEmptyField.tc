@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_03_UpdateFieldWithEmptyField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47d97eab-e212-42f4-9359-47aa11c35ed3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_11_EmptyEmailAgent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef625b69-c45c-47bb-9d7d-772455b75648</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_13_InvalidEstimateAnnualRevenue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14c0c415-2a6d-4e0d-9543-7d7746e76dc8</testCaseGuid>
+</TestCaseEntity>

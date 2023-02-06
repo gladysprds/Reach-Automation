@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_18_Save as Draft</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>037f5293-24af-4e9b-ae42-d8f30900583a</testCaseGuid>
+   <variable>
+      <defaultValue>'D:\\W\\Embreo\\Reach needs\\reach_employee.xlsx'</defaultValue>
+      <description></description>
+      <id>7229ec04-bc25-4f39-940d-609d50c525ce</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+   <variable>
+      <defaultValue>'MyDesemberExercise'</defaultValue>
+      <description></description>
+      <id>1c732c8d-5ff8-4063-8526-69a96c36925a</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

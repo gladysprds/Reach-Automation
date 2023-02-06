@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_05_FilledAllFieldCorrectlyWithExistingPolicy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>316b9ca9-8d31-472a-9acc-948bea0fdbd6</testCaseGuid>
+   <variable>
+      <defaultValue>'Group Personal Accident'</defaultValue>
+      <description></description>
+      <id>534bdc56-25c6-4e5b-8904-76e6f85ae948</id>
+      <masked>false</masked>
+      <name>Policy</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_09_DeleteExistingPolicy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4525201-6952-4f5c-9d93-1f3ccca84447</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e86e216a-8b9c-47a7-a054-2e7c5eb4b356</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

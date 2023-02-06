@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_13_FilledActivityDetailswithmorethan1000character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e212110-0306-4b5f-800a-bb0189ca12a2</testCaseGuid>
+</TestCaseEntity>

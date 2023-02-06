@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Benefit Insurer Wording</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1dbc5bc4-06f8-49a4-8ba9-4c0eceb26ec0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>156428f5-925f-458f-bc8f-89193928fa49</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10730007-d3e2-4c01-b0c1-17de23dfd8b3</id>
+      <masked>false</masked>
+      <name>benefit_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7eb9887-a876-4e83-9615-f5fec70f83af</id>
+      <masked>false</masked>
+      <name>activation</name>
+   </variable>
+</TestCaseEntity>

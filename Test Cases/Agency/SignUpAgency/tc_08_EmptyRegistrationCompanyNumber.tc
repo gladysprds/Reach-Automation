@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_08_EmptyRegistrationCompanyNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0a948e6-361c-4ffd-adc6-0d87695bbeeb</testCaseGuid>
+</TestCaseEntity>

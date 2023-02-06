@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_11_Upload Employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da149189-a6dc-4634-ad46-e17befaaa6df</testCaseGuid>
+   <variable>
+      <defaultValue>'D:\\W\\Embreo\\Reach needs\\employee_file.xlsx'</defaultValue>
+      <description></description>
+      <id>dfb9607c-9328-4b91-9419-5d18202242d7</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

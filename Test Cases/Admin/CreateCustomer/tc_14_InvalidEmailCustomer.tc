@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_14_InvalidEmailCustomer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdc31cff-aead-421a-a55a-3b6f535ea7fc</testCaseGuid>
+</TestCaseEntity>

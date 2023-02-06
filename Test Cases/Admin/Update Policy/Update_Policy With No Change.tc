@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update_Policy With No Change</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89f2cad0-db82-484a-a1d1-44c754a9eb1b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6af9cc3f-8969-466d-abd8-a3495071913c</id>
+      <masked>false</masked>
+      <name>Policy_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>989aefbf-69b4-43a3-95bf-1620266fe1ff</id>
+      <masked>false</masked>
+      <name>Policy_Description</name>
+   </variable>
+</TestCaseEntity>

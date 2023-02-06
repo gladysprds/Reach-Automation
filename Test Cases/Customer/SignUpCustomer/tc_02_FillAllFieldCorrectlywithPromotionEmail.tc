@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_02_FillAllFieldCorrectlywithPromotionEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>823e4f9d-a7a5-4490-890d-1b1b6b26ca07</testCaseGuid>
+</TestCaseEntity>

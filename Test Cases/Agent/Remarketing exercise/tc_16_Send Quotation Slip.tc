@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_16_Send Quotation Slip</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6946221b-5e41-40c6-9747-11ebf2cb9f59</testCaseGuid>
+   <variable>
+      <defaultValue>'D:\\W\\Embreo\\Reach needs\\reach_employee.xlsx'</defaultValue>
+      <description></description>
+      <id>b635422f-60f9-4c45-8141-87fce5018bc3</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+   <variable>
+      <defaultValue>'MyDesemberExercise'</defaultValue>
+      <description></description>
+      <id>6b6e622a-2a16-42ae-8664-3a444220513c</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

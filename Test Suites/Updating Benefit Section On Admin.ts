@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Updating Benefit Section On Admin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ed1ef939-3cc8-4482-a229-a253255e1631</testSuiteGuid>
+   <testCaseLink>
+      <guid>f7ed2ba4-9db8-432d-99dc-b0f32368d2b0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Admin/Update Benefit/Update Benefit Reach Wording</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>69325838-4711-425b-b655-30f72141c097</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>95c21498-2b8e-4e61-bc8f-a9f6bf45fb20</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Admin/Update Benefit/Update Benefit With No change</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>944d20c8-b698-4fe8-8e5a-c8f338232816</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0a50b1c5-9a00-48f3-ab96-57c2d26488ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Admin/Update Benefit/Update Benefit Insurer Wording</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>156428f5-925f-458f-bc8f-89193928fa49</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>10730007-d3e2-4c01-b0c1-17de23dfd8b3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c7eb9887-a876-4e83-9615-f5fec70f83af</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>baf06020-b118-47a6-bfbb-3b1adba26879</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Admin/SignInAdmin/Update Benefit Insurer Wording with No Change</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ab9bdf4f-db5b-4e0f-80c1-5c0b696894db</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e17ddc3e-2a5e-4578-892e-bc9e1e0b3a1f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>555639be-14f5-437c-8eb0-64104d246008</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

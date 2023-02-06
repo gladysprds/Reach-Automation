@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Create Insurer </name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Seainsure3'</initValue>
+      <name>CompanyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bungalon Highway, 1145'</initValue>
+      <name>CompanyAddress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Seainsure'</initValue>
+      <name>CompanyContactName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'antonius@embreo.global'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'singapore'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Seainsure@ex'</initValue>
+      <name>CompanyEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12345678'</initValue>
+      <name>LicenseNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Health'</initValue>
+      <name>Departement</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'+6512345678'</initValue>
+      <name>CompanyContactNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>regular text</description>
+      <initValue>'yunita'</initValue>
+      <name>invalidEmailCompany</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>invalid format</description>
+      <initValue>'night@m.m'</initValue>
+      <name>invalidEmailCompany2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>non numeric</description>
+      <initValue>'onetwothree'</initValue>
+      <name>InvalidContactNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>non numeric</description>
+      <initValue>'threefourfive'</initValue>
+      <name>invalidLicenseNumber</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

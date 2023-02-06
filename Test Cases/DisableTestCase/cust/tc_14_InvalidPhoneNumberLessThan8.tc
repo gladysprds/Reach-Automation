@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_14_InvalidPhoneNumberLessThan8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c99a5c5a-1a20-4279-ac6f-f4ef1e614768</testCaseGuid>
+</TestCaseEntity>

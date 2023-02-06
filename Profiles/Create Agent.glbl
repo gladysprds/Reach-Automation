@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Create Agent</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'antonius@embreo.global'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'singapore'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'richyagent5'</initValue>
+      <name>AgentFirstName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ben'</initValue>
+      <name>AgentLastName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12345678'</initValue>
+      <name>AgentLifeLicenseNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123456789'</initValue>
+      <name>AgentMAS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12000'</initValue>
+      <name>AgentCommisionAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sarabrailles@ex'</initValue>
+      <name>AgentEmailAgent</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1234567890'</initValue>
+      <name>AgentContactNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>less than 11</description>
+      <initValue>'1234567890000'</initValue>
+      <name>AgentLifeLicenseNumber2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>non numeric</description>
+      <initValue>'onetwothreefour'</initValue>
+      <name>AgentLifeLicenseNumber3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1234567891011'</initValue>
+      <name>AgentMASNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>non numeric</description>
+      <initValue>'plussixfivefour'</initValue>
+      <name>AgentContactNumber2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>invalid format</description>
+      <initValue>'night@m.m'</initValue>
+      <name>AgentEmailAgent2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>regular text</description>
+      <initValue>'thisisme'</initValue>
+      <name>AgentEmailAgent3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>' 122,222,222,222'</initValue>
+      <name>AgentCommisionAmount2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_01_FillAllFieldCorrectlyCreatingInsurerWording</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8048695b-3b46-4dd6-a1c8-b50b7079429a</testCaseGuid>
+</TestCaseEntity>

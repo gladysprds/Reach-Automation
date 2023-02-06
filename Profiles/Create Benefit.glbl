@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Create Benefit</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'antonius@embreo.global'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'singapore'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Death Accelerated'</initValue>
+      <name>BenefitName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This is testing for benefit'</initValue>
+      <name>BenefitDescription</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'act criteria'</initValue>
+      <name>BenefitActivationCriteria</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>ReachWording</description>
+      <initValue>'Critical Illness'</initValue>
+      <name>BenefitName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>reach wording</description>
+      <initValue>'This is testing for reach wording'</initValue>
+      <name>BenefitDescription2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

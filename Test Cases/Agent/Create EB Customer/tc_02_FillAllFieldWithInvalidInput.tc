@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_02_FillAllFieldWithInvalidInput</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af3d54bf-7fca-463a-9c96-433d23f9ad32</testCaseGuid>
+</TestCaseEntity>

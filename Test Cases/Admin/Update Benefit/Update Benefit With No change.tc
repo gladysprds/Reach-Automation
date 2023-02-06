@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Benefit With No change</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f879d47-a1f2-4c3f-92ee-6e2ecd328105</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>944d20c8-b698-4fe8-8e5a-c8f338232816</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>

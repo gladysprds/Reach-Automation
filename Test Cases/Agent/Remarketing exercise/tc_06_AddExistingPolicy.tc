@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_06_AddExistingPolicy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e283a20-8eaa-43a3-99f2-4fa58db37045</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3fd9c48-2d89-4c17-9b7b-580a7ab03dd2</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_08_ChoosePackagePlanMoreThanOne</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f897b114-95d4-4f37-842f-716dd022cf5e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b7f2bda-0d94-46aa-af00-b6bc11e06890</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

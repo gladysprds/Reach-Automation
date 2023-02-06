@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_02_ChoosingExistingPolicyMoreThanOne</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0816dcea-087a-460f-9f15-601016e1a7d7</testCaseGuid>
+   <variable>
+      <defaultValue>'D:\\W\\Embreo\\Reach needs\\employee_file.xlsx'</defaultValue>
+      <description></description>
+      <id>379c6d9d-dde8-4542-a231-c9b78120f168</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+   <variable>
+      <defaultValue>'MyDesemberExercise2'</defaultValue>
+      <description></description>
+      <id>9dbe4b0e-82b6-4a17-a5c4-fe1dbc3b39bb</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

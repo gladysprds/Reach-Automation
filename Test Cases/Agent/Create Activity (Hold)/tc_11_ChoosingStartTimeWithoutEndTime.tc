@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_11_ChoosingStartTimeWithoutEndTime</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6deb52f1-97bf-434a-8ec5-65fe9fe4d05c</testCaseGuid>
+</TestCaseEntity>

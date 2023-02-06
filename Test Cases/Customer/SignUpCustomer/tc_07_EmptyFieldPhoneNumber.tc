@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_07_EmptyFieldPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b491a5c2-5e02-4041-b26e-7045857cad16</testCaseGuid>
+</TestCaseEntity>

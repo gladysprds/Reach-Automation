@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_07_EmptyEmployeeList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f383f45-05ac-4573-b67b-47922141aed6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>655f8faf-f121-4728-af5a-c5082ff47e3a</id>
+      <masked>false</masked>
+      <name>exercise</name>
+   </variable>
+</TestCaseEntity>

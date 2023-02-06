@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update_Policy Using Search Button On Insurer Section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>423616d6-6a79-46a8-858e-c691098493e7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b270be6a-07d2-4f1d-b46a-efd7c8b344cd</id>
+      <masked>false</masked>
+      <name>Policy_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ac038560-eaec-4020-a546-9fe173813024</id>
+      <masked>false</masked>
+      <name>Policy_Description</name>
+   </variable>
+</TestCaseEntity>

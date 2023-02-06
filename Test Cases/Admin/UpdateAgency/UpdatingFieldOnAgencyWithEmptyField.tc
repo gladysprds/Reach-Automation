@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UpdatingFieldOnAgencyWithEmptyField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c11c1384-fb4d-46d3-a642-7f10add5b7cb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c092ab37-68aa-46c9-a775-c5e2b3d4c11e</id>
+      <masked>false</masked>
+      <name>Agency_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>94d7073c-a04d-489a-94de-8859b94a7c51</id>
+      <masked>false</masked>
+      <name>Head_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4973d0e-64b4-42f7-a399-bb102bc6fb10</id>
+      <masked>false</masked>
+      <name>General_License</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1858d00d-61a7-4cff-aa40-c3bbf0ce28c8</id>
+      <masked>false</masked>
+      <name>Contact_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9042d2bc-63ec-45ed-b9f6-bc725f46103b</id>
+      <masked>false</masked>
+      <name>Contact_Number</name>
+   </variable>
+</TestCaseEntity>

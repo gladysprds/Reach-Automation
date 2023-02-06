@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Benefit Reach Wording</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb6e9e1a-b93a-4264-8bea-b0f8bd943645</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69325838-4711-425b-b655-30f72141c097</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_15_InvalidContactNumberLess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab5cb220-5ac5-43db-8f83-8e7ce11880f1</testCaseGuid>
+</TestCaseEntity>

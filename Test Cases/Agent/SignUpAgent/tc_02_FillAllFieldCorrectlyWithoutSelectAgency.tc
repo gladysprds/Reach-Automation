@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_02_FillAllFieldCorrectlyWithoutSelectAgency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9a6970f-4095-45a5-ae97-8f5914bbb611</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_02_FillAllFieldCorrectlyWithMultipleTagReachWording</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc1fa2d4-ddd6-4bdf-a093-46c558aebf5a</testCaseGuid>
+</TestCaseEntity>

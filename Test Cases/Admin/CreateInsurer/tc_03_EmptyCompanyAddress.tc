@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_03_EmptyCompanyAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef1bd4a8-8172-496c-b9ff-f88a424f45fc</testCaseGuid>
+</TestCaseEntity>
